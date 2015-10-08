@@ -1,0 +1,33 @@
+{
+  "name": "simple-iso",
+  "version": "0.1.0",
+  "description": "A lightweight container for consistently sharing state between servers and browsers",
+  "main": "build/iso.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesseanwright/simple-iso.git"
+  },
+  "keywords": [
+    "iso",
+    "isomorphic",
+    "react",
+    "javascript",
+    "state"
+  ],
+  "author": "James Wright <james@jamesswright.co.uk>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jamesseanwright/simple-iso/issues"
+  },
+  "homepage": "https://github.com/jamesseanwright/simple-iso#readme",
+  "devDependencies": {
+    "chai": "^3.3.0"
+  },
+  "scripts": {
+    "build": "./tasks/build.sh",
+    "test": "npm run build && ./tasks/test.sh"
+  }
+}
