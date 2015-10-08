@@ -1,4 +1,4 @@
-# Simple ISO
+# Simple ISO [![Build status](https://api.travis-ci.org/jamesseanwright/simple-iso.svg)](https://travis-ci.org/jamesseanwright/simple-iso)
 
 A lightweight container for consistently sharing state between servers and browsers.
 
