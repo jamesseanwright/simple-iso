@@ -74,4 +74,12 @@ class ImageRepository {
 ```
 
 ## Examples
-Consult my [fashion-timeline](https://github.com/jamesseanwright/fashion-timeline) project for an example of integrating Simple ISO. Alternatively, check out my [breaking-news](https://github.com/jamesseanwright/breaking-news) repo. This doesn't use the library explicitly, but contains the intitial implementation of the container, and it honours the same contract.
+Consult my [fashion-timeline](https://github.com/jamesseanwright/fashion-timeline) project for an example of integrating Simple ISO. Alternatively, check out my [breaking-news](https://github.com/jamesseanwright/breaking-news) repo. This doesn't use the library explicitly, but contains the initial implementation of the container, and it honours the same contract.
+
+## Building locally
+There are some build scripts written using Bash. These invoke the Babel and Mocha CLIs, which can be installed with `npm i -g mocha babel`. Then install the local dependencies using `npm i`.
+
+The available tasks are:
+
+* `npm run build` - compile the source to ECMAScript 5
+* `npm test` - compile the source and run the unit tests
