@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Simple Iso
-=======
-# Simple ISO [![Build status](https://api.travis-ci.org/jamesseanwright/simple-iso.svg)](https://travis-ci.org/jamesseanwright/simple-iso)
->>>>>>> 0d56026e48b456a0a759dfa8a37e39ef4e7e17d9
+# Simple Iso [![Build status](https://api.travis-ci.org/jamesseanwright/simple-iso.svg)](https://travis-ci.org/jamesseanwright/simple-iso)
 
 A lightweight container for consistently sharing state between servers and browsers.
 
