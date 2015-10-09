@@ -1,4 +1,4 @@
-# Simple ISO
+# Simple Iso
 
 A lightweight container for consistently sharing state between servers and browsers.
 
@@ -74,4 +74,4 @@ class ImageRepository {
 ```
 
 ## Examples
-Consult my [fashion-timeline](https://github.com/jamesseanwright/fashion-timeline) project for an example of integrating Simple ISO. Alternatively, check out my [breaking-news](https://github.com/jamesseanwright/breaking-news) repo. This doesn't use the library explicitly, but contains the intitial implementation of the container, and it honours the same contract.
+Consult my [fashion-timeline](https://github.com/jamesseanwright/fashion-timeline) project for an example of integrating Simple Iso. Alternatively, check out my [breaking-news](https://github.com/jamesseanwright/breaking-news) repo. This doesn't use the library explicitly, but contains the intitial implementation of the container, and it honours the same contract.
